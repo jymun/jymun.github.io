@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-04-01T10:13:52.066594851+09:00"
+    description: A Helm chart for Kubernetes
+    digest: bfc0e74dbd051d4dc61c653ab8d8ad0ceede87156cf24f79587e6804b6df3ae5
+    name: test
+    type: application
+    urls:
+    - https://github.com/jymun/jymun.github.io/stable/test-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-04-01T10:13:52.064486606+09:00"
